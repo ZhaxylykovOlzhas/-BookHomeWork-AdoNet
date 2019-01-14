@@ -1,0 +1,17 @@
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\BookHomeWork.exe.config
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\BookHomeWork.exe
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\BookHomeWork.pdb
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\EntityFramework.dll
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\EntityFramework.xml
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.csprojAssemblyReference.cache
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.csproj.CoreCompileInputs.cache
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.csproj.CopyComplete
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.exe
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.pdb
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.Migrations.InitialCreate.resources
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.csproj.GenerateResource.cache
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.Migrations.ISBN.resources
+c:\users\жаксылыково\source\repos\BookHomeWork\BookHomeWork\obj\Debug\BookHomeWork.Migrations.Genres.resources
